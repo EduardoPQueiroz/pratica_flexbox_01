@@ -1,2 +1,2 @@
-# pratica_flexbox_01
-Repositório dedicado a prática 01 de flexbox
+# pratica_flexbox_1
+Repositório dedicado a primeira prática de flexbox com css
